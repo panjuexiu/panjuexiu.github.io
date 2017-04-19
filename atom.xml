@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://panjuexiu.github.io/"/>
-  <updated>2017-04-19T03:03:46.312Z</updated>
+  <updated>2017-04-19T23:05:02.150Z</updated>
   <id>http://panjuexiu.github.io/</id>
   
   <author>
@@ -20,12 +20,18 @@
     <link href="http://panjuexiu.github.io/2017/04/19/hello/"/>
     <id>http://panjuexiu.github.io/2017/04/19/hello/</id>
     <published>2017-04-19T03:03:46.000Z</published>
-    <updated>2017-04-19T03:03:46.312Z</updated>
+    <updated>2017-04-19T23:05:02.150Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="Test" scheme="http://panjuexiu.github.io/categories/Test/"/>
+    
+    
+      <category term="Test" scheme="http://panjuexiu.github.io/tags/Test/"/>
+    
+      <category term="Hello" scheme="http://panjuexiu.github.io/tags/Hello/"/>
     
   </entry>
   
@@ -34,7 +40,7 @@
     <link href="http://panjuexiu.github.io/2017/04/19/hello-world/"/>
     <id>http://panjuexiu.github.io/2017/04/19/hello-world/</id>
     <published>2017-04-19T03:00:04.946Z</published>
-    <updated>2017-04-19T03:00:04.946Z</updated>
+    <updated>2017-04-19T23:05:51.494Z</updated>
     
     <summary type="html">
     
@@ -42,6 +48,10 @@
     
     </summary>
     
+      <category term="Test" scheme="http://panjuexiu.github.io/categories/Test/"/>
+    
+    
+      <category term="Hello World" scheme="http://panjuexiu.github.io/tags/Hello-World/"/>
     
   </entry>
   
