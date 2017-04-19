@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://panjuexiu.github.io/"/>
-  <updated>2017-04-19T23:05:02.150Z</updated>
+  <updated>2017-04-19T23:49:37.853Z</updated>
   <id>http://panjuexiu.github.io/</id>
   
   <author>
@@ -16,13 +16,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
+    <title>梦</title>
     <link href="http://panjuexiu.github.io/2017/04/19/hello/"/>
     <id>http://panjuexiu.github.io/2017/04/19/hello/</id>
     <published>2017-04-19T03:03:46.000Z</published>
-    <updated>2017-04-19T23:05:02.150Z</updated>
+    <updated>2017-04-19T23:49:37.853Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=562732&amp;auto=0&amp;height=66&quot;&gt;&lt;br&gt;&lt;/iframe&gt;&lt;br&gt;
     
     </summary>
     
@@ -40,11 +42,11 @@
     <link href="http://panjuexiu.github.io/2017/04/19/hello-world/"/>
     <id>http://panjuexiu.github.io/2017/04/19/hello-world/</id>
     <published>2017-04-19T03:00:04.946Z</published>
-    <updated>2017-04-19T23:05:51.494Z</updated>
+    <updated>2017-04-19T23:39:02.367Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
     
     </summary>
     
