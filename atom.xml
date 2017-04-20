@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://panjuexiu.github.io/"/>
-  <updated>2017-04-19T23:49:37.853Z</updated>
+  <updated>2017-04-19T23:53:06.364Z</updated>
   <id>http://panjuexiu.github.io/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>梦</title>
-    <link href="http://panjuexiu.github.io/2017/04/19/hello/"/>
-    <id>http://panjuexiu.github.io/2017/04/19/hello/</id>
+    <link href="http://panjuexiu.github.io/2017/04/19/dream/"/>
+    <id>http://panjuexiu.github.io/2017/04/19/dream/</id>
     <published>2017-04-19T03:03:46.000Z</published>
-    <updated>2017-04-19T23:49:37.853Z</updated>
+    <updated>2017-04-19T23:53:06.364Z</updated>
     
     <summary type="html">
     
@@ -28,12 +28,12 @@
     
     </summary>
     
-      <category term="Test" scheme="http://panjuexiu.github.io/categories/Test/"/>
+      <category term="Music" scheme="http://panjuexiu.github.io/categories/Music/"/>
     
     
-      <category term="Test" scheme="http://panjuexiu.github.io/tags/Test/"/>
+      <category term="Music" scheme="http://panjuexiu.github.io/tags/Music/"/>
     
-      <category term="Hello" scheme="http://panjuexiu.github.io/tags/Hello/"/>
+      <category term="柴田淳" scheme="http://panjuexiu.github.io/tags/%E6%9F%B4%E7%94%B0%E6%B7%B3/"/>
     
   </entry>
   
